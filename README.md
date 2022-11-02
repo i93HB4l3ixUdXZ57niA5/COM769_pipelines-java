@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Christy-S/Christy-S/_apis/build/status/i93HB4l3ixUdXZ57niA5.COM769_pipelines-java?branchName=main)](https://dev.azure.com/Christy-S/Christy-S/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
